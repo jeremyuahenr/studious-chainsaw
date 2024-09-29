@@ -1,0 +1,106 @@
+language: python
+dist: focal
+
+
+jobs:
+  include:
+    - stage: test
+      name: "build1"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build2"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build3"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build4"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build5"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build6"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build7"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build8"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build9"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build10"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build11"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build12"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build13"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build14"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build15"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build16"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build17"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build18"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build19"
+      script:
+        - sudo -u root bash sarika.sh
+        
+    -
+      name: "build20"
+      script:
+        - sudo -u root bash sarika.sh
+        
